@@ -1,0 +1,22 @@
+body{
+    background-color:rgb(18, 15, 16);
+
+}
+h1{
+    color: aliceblue;
+    align-items: center;
+}
+p{
+    color: aliceblue;
+}
+.space{
+    height: 20px;
+}
+.parent div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    
+}
