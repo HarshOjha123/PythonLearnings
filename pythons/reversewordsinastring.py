@@ -5,6 +5,6 @@ for word in words:
     string.insert(0, word)
 
 
-print(" ".join(string))        
+print(" 1 ".join(string))        
 
     
